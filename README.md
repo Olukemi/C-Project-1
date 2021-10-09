@@ -1,7 +1,3 @@
-# compeng2sh4-lab1-starter
+# C Project 1 | COMPENG Lab 1
 
-Section: [Insert your lab section]
-
-MacID: [Insert your macID here]
-
-StudentID: [Insert your numerical student ID here]
+Completed Computer Engineering Lab 1 Applications using C programming language 
